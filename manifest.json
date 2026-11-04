@@ -1,0 +1,27 @@
+{
+  "name": "حسابك - HESABAK",
+  "short_name": "حسابك",
+  "description": "إدارة المحل والمبيعات والمخزون والعملاء",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fb",
+  "theme_color": "#142b52",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
