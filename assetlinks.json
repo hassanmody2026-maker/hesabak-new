@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.workers.hassanmody2026.hesabak_new.twa",
+        "sha256_cert_fingerprints": ["6C:32:0B:9B:43:B4:71:5C:4F:61:1D:92:84:4D:23:0D:53:13:91:DD:6F:72:E2:2F:48:D0:37:78:43:41:F6:8F"]
+      }
+    }]
